@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Logs
+run.log
+*.log
+
+# Environment
+.env.local
+.env.*.local
+
+# Chroma / Vector DB
+chroma_db/
+
+# Temp files
+*.tmp
+*.wav
+*.mp3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
