@@ -1,3 +1,5 @@
+> **中文** | [English](README_en.md)
+
 # AI 多模态桌面宠物智能家居助手
 
 一个基于 Python、PySide6、LangChain、OpenCV 和本地大模型的多模态智能桌面宠物，支持文本、语音、图像三模态自然交互，可接入 Home Assistant 控制智能家居设备。
